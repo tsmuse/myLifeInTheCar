@@ -1,10 +1,18 @@
 [{
   "date": "02112015",
   "amDrive": "66",
-  "pmDrive": "57"
+  "pmDrive": "57",
+  "notes": "19th to 280 to 380 to 101 both ways"
 },
 {
-  "date": "02112015",
+  "date": "02122015",
   "amDrive": "58",
-  "pmDrive": ""
+  "pmDrive": "dnr",
+  "notes": "19th to 280 to 380 to 101 in, didn't go straight home after work"
+},
+{
+  "date": "02132015",
+  "amDrive": "44",
+  "pmDrive": "",
+  "notes": "19th to 280 in"
 }]
